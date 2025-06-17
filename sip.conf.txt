@@ -1,0 +1,13 @@
+; Configuration pour sgroot
+[sgroot]
+type=friend
+context=Marketing
+secret=0000
+host=dynamic
+callerid="Stéphane Groot" <88012>
+mailbox=88012@ff
+nat=yes
+canreinvite=no
+dtmfmode=rfc2833
+disallow=all
+allow=ulaw
